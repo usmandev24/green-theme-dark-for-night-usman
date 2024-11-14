@@ -4,11 +4,12 @@ A dark, muted VS Code theme with softened colors, designed for comfortable night
 
 ## Preview
 
-![Theme Preview](path/to/screenshot.png)
+To see preview better way is to install this theme form VSIX file.
 
 ## Installation
 
 1. Clone or download this repository.
+[(github.com/usmandev24)](https://github.com/usmandev24/green-theme-dark-for-day-usman)
 2. Open the Extensions sidebar in VS Code.
 3. Click on the `...` (more actions) icon and select `Install from VSIX...`.
 4. Select the downloaded file or paste the theme files into your VS Code user themes folder.
