@@ -1,9 +1,13 @@
 {
-  "name": "green_theme-for-nightmod-by-usman",
+  "name": "green-theme-for-nightmod-by-usman",
   "displayName": "Green (night mode) best for eyes",
   "description": "A personalized VS Code theme for night use,remember to turn on night light in windows",
-  "version": "1.2.7",
-  "publisher": "Usman Ghnai (usmandev24)",
+  "version": "1.3.7",
+  "publisher": "usmandev24",
+  "repository": {
+		"type": "git",
+		"url": "https://github.com/usmandev24/green-theme-dark-for-night-usman"
+	},
   "engines": {
     "vscode": "^1.60.0"
   },
@@ -11,7 +15,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Green best for eyes (dark for nightmode)",
+        "label": "Green theme eyes friendly(dark for nightmode)",
         "uiTheme": "vs-dark",
         "path": "./themes/dark_modern_night.json"
       }
