@@ -1,4 +1,4 @@
-# Default Dark Modern(Green) - Adjusted for Night Light
+# Default Dark Modern(Green) - Adjusted for Night Light - VS Code theme
 
 A dark, muted VS Code theme with softened colors, designed for comfortable night-time coding sessions.
 
