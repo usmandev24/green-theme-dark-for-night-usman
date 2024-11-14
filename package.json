@@ -11,7 +11,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Green best for eyes(dark for nightmode)",
+        "label": "Green best for eyes (dark for nightmode)",
         "uiTheme": "vs-dark",
         "path": "./themes/dark_modern_night.json"
       }
